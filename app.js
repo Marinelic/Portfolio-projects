@@ -3,49 +3,49 @@
             {
                 title: "Verduras - Vegan restaurant",
                 description: "Landing page with React and Tailwind",
-                image: "assets/Verduras.png",
+                image: "/assets/verduras.png",
                 url: "https://verduras-vegan-restaurant-8vfm.vercel.app/",
             },
 
             {
                 title: "MoonBank - Banking web app",
                 description: "Landing page with React and Tailwind",
-                image: "assets/MoonBank.png",
+                image: "/assets/moonBank.png",
                 url: "https://moon-bank-se1v.vercel.app/",
             },
 
             {
                 title: "BlueSky Dental - Dental page",
                 description: "Landing page with React and Tailwind",
-                image: "assets/dental.png",
+                image: "/assets/dental.png",
                 url: "https://dental-nh1v.vercel.app/",
             },
 
             {
                 title: "Weather App",
                 description: "Weather app built with React, Vite, Tailwind CSS, and Framer Motion",
-                image: "assets/weather.png",
+                image: "/assets/weather.png",
                 url: "https://weather-app-one-kappa-66.vercel.app/",
             },
 
             {
                 title: "Twitter Clone App",
                 description: "Built with React, Tailwind and connected to MockAPI",
-                image: "assets/twitter-clone.png",
+                image: "/assets/twitterClone.png",
                 url: "https://twitter-clone-eosin-rho.vercel.app/",
             },
 
             {
                 title: "Comida - Grocery mini app",
                 description: "HTML, CSS, Vanilla JavaScript and Firebase Realtime Database",
-                image: "assets/groceryApp.png",
+                image: "/assets/groceryApp.png",
                 url: "https://grocery-app-eight-gamma.vercel.app/",
             },
 
             {
                 title: "Blackjack Game",
                 description: "Built with HTML, CSS, and vanilla JavaScript",
-                image: "assets/BlackjackGame.png",
+                image: "/assets/blackjackGame.png",
                 url: "https://blackjack-game-bice.vercel.app/",
             },
         ];
