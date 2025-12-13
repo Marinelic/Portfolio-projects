@@ -36,7 +36,7 @@
             },
 
             {
-                title: "Comida - Grocerp mini app",
+                title: "Comida - Grocery mini app",
                 description: "HTML, CSS, Vanilla JavaScript and Firebase Realtime Database",
                 image: "assets/groceryApp.png",
                 url: "https://grocery-app-eight-gamma.vercel.app/",
@@ -55,7 +55,7 @@
     projects.forEach((project) => {
         const card = document.createElement("article");
         card.className =
-            "overflow-hidden rounded-2xl border border-white/10 bg-white/5 shadow";
+            "overflow-hidden rounded-2xl border border-[#B9B350] bg-white/5 shadow";
 
     card.innerHTML = `
         <img
@@ -66,8 +66,8 @@
         />
 
         <div class="p-5">
-            <h2 class="text-lg font-semibold">${project.title}</h2>
-            <p class="mt-1 text-sm text-slate-300">${project.description}</p>
+            <h2 class="text-lg font-semibold text-center">${project.title}</h2>
+            <p class="mt-1 text-sm text-slate-300 text-center">${project.description}</p>
             
             <a
                 href="${project.url}"
