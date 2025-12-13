@@ -54,12 +54,22 @@
         <img
             src="${project.image}"
             alt="Screenshot od ${project.title}"
-            class=""
+            class="h-44 w-full object-cover"
             loading="lazy"       
         />
 
-        <div>
-            <h2>${project.title}</h2>       
+        <div class="p-5">
+            <h2 class="text-lg font-semibold">${project.title}</h2>
+            <p class="mt-1 text-sm text-slate-300">${project.description}</p>
+            
+            <a
+                href="${project.url}"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="mt-4 inline-flex w-full items-center justify-center rounded-xl bg-[#AAA873] px-4 py-2.5 texr-sm font-semibold text-white hover:bg-[#B9B350]"
+            >
+                View project
+            </a>
         </div>
     `
 
