@@ -55,6 +55,13 @@
                 image: "Mariposa.png",
                 url: "https://mariposa-kappa.vercel.app/",
             },
+
+            {
+                title: "Coffee Webshop - eCommerce website",
+                description: "The project is currently being done locally, so I am attaching a short screen video to give you an impression of the structure and appearance of the site.",
+                image: "coffeeShop.png",
+                url: "CoffeeShop.mp4",
+            },
         ];
 
     const projectsContainer = document.getElementById("projects");
