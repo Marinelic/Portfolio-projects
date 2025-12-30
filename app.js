@@ -1,7 +1,7 @@
  
  const projects = [
             {
-                title: "Verduras - Vegan restaurant",
+                title: "Verduras - Vegan Restaurant",
                 description: "Landing page with React and Tailwind",
                 image: "verduras.png",
                 url: "https://verduras-vegan-restaurant-8vfm.vercel.app/",
@@ -36,7 +36,7 @@
             },
 
             {
-                title: "Comida - Grocery mini app",
+                title: "Comida - Grocery Mini App",
                 description: "HTML, CSS, Vanilla JavaScript and Firebase Realtime Database",
                 image: "groceryApp.png",
                 url: "https://grocery-app-eight-gamma.vercel.app/",
@@ -47,6 +47,13 @@
                 description: "Built with HTML, CSS, and vanilla JavaScript",
                 image: "blackjackGame.png",
                 url: "https://blackjack-game-bice.vercel.app/",
+            },
+
+            {
+                title: "Mariposa - Child Care House",
+                description: "Built with HTML, Tailwind CSS, and vanilla JavaScript",
+                image: "Mariposa.png",
+                url: "https://mariposa-kappa.vercel.app/",
             },
         ];
 
